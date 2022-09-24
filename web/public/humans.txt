@@ -1,0 +1,10 @@
+/* TEAM */
+    Thief: Anders Pippi Tednes
+    Contact: goodbye@blckswan.no
+    Twitter: nope
+    GitHub: ungtb10d
+    From: Rogaland, Norway
+
+/* SITE */
+    Ingredients: Ordinary water. (And a tiny drop of LSD)
+    Recipe: https://github.com/ungtb10d/gitcanvas
