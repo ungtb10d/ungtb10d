@@ -1,17 +1,3 @@
-![ungtb10d](./web/public/img/gitcanvas.png)
-
-## What is this?
-Who are you?
-
-# Are you using drugs?
-Yeah, it depends. 
-
-```
-"""
-'''
-...
-```
-
 # Drinking and driving?
 Nope.
 
