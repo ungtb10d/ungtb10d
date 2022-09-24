@@ -1,6 +1,6 @@
-# [blckswan](http://blckswan.no)
+# [ungtb10d](http://blckswan.no)
 
-#### ungtb10d
+#### blckswan
 
 ![ungtb10d](./web/public/img/gitcanvas.png)
 
