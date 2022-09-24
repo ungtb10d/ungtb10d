@@ -1,7 +1,3 @@
-# [ungtb10d](http://blckswan.no)
-
-#### blckswan
-
 ![ungtb10d](./web/public/img/gitcanvas.png)
 
 ## What is this?
