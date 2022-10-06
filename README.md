@@ -1,4 +1,4 @@
-[B|SWAN|CK](!!)
-(B|SWAN|CK)[!!]
-[b|swan|ck](!!)
-(b|swan|ck)[!!]
+[B|SWAN|CK]($0)
+(B|SWAN|CK)[$1]
+[b|swan|ck]($1)
+(b|swan|ck)[$0]
