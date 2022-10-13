@@ -2,4 +2,4 @@
 (B|SWAN|CK)[$1]
 [b|swan|ck]($1)
 (b|swan|ck)[$0]
-$0
+$0=$1
