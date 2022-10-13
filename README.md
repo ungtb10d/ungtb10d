@@ -1,5 +1,6 @@
-[B|SWAN|CK]($0)
-(B|SWAN|CK)[$1]
-[b|swan|ck]($1)
-(b|swan|ck)[$0]
-$0=$1
+#include <stdio.h>
+
+int main() {
+   printf("Hello Ground!");
+   return 0;
+}
