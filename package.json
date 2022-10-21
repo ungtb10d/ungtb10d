@@ -17,16 +17,25 @@
   "bin": "bin/gitcanvas",
   "dependencies": {
     "async": "0.2.9",
+    "chai": "^4.3.6",
     "chalk": "0.3.0",
     "commander": "2.0.0",
     "emoji-random": "0.1.0",
     "express": "3.4.4",
+    "ibackuptool": "^4.0.1",
     "jade": "0.35.0",
+    "liftoff": "^4.0.0",
+    "linux": "^4.2.1",
     "lodash": "2.2.1",
-    "request": "2.27.0"
+    "mocha": "^10.1.0",
+    "npx": "^10.2.2",
+    "request": "2.27.0",
+    "tap": "^16.3.0",
+    "test": "^3.2.1",
+    "yarnpkg": "^0.15.1"
   },
   "devDependencies": {
-    "grunt": "0.4.1",
+    "grunt": "^1.5.3",
     "grunt-contrib-jshint": "0.7.0",
     "grunt-contrib-watch": "0.5.3",
     "jshint-stylish": "0.1.3",
