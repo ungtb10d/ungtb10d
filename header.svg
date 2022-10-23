@@ -8,7 +8,7 @@
 						transform: rotate(3deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(-5deg);
 					}
 				}
 
@@ -17,7 +17,7 @@
 						background-position: 0% 50%;
 					}
 					50% {
-						background-position: 100% 50%;
+						background-position: 100% 60%;
 					}
 					100% {
 						background-position: 0% 50%;
@@ -26,7 +26,7 @@
 
 				@keyframes fadeIn {
 					0% {
-						opacity: 0;
+						opacity: 1;
 					}
 					66% {
 						opacity: 0;
@@ -83,7 +83,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with magick &amp; candyfloss<br/>not a guerrilla patch</h1>
+				<h1>Made with real blck magic &amp; candyfloss!<br/>not a guerrilla patch</h1>
 				<p>Click to see the source</p>
 			</div>
 		</div>
