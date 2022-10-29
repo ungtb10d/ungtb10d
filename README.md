@@ -15,7 +15,7 @@ animation.add(
         left: -5e3
 }), T);
 
-![swan.svg](swan.svg)[[(swan.svg)]
+![swan.svg](swan.svg)[[(swan.svg)]]
 
 </body>
 </html> 
