@@ -1,1 +1,1 @@
-![https://raw.githubusercontent.com/ungtb10d/bomb/3c84e4d2559e29a314ed5c5beca26a0566b2e4f1/bomb2.svg](https://raw.githubusercontent.com/ungtb10d/bomb/3c84e4d2559e29a314ed5c5beca26a0566b2e4f1/bomb2.svg)
+![bomb.svg](https://raw.githubusercontent.com/ungtb10d/kaos/main/bomb.svg)
